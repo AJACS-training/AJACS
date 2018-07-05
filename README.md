@@ -1,4 +1,9 @@
 # AJACS
+### 2018年度
+- [統合データベース講習会：AJACS筑波4](https://github.com/AJACS-training/AJACS70)（2018年7月10日開催・物質・材料研究機構）
+- [統合データベース講習会：AJACS越後](https://github.com/AJACS-training/AJACS69)（2018年6月26日-27日開催・新潟大学）
+
+
 ### 2017年度
 - [統合データベース講習会：AJACS浜松](https://github.com/AJACS-training/AJACS68)（2018年1月16日-17日開催・浜松医科大学）
 - 統合データベース講習会：AJACS下総（2017年12月19日開催・千葉大学）
