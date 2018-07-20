@@ -27,20 +27,20 @@
 - [統合データベース講習会：AJACS御茶ノ水](https://github.com/AJACS-training/AJACS53)（2015年5月20日-21日開催・東京医科歯科大学）
 
 ### 2014年
-- 統合データベース講習会：AJACS府中（2015年3月5日開催・東京農工大学）
-- 統合データベース講習会：AJACS岩手（2014年12月5日開催・岩手医科大学）
-- 統合データベース講習会：AJACS十勝（2014年9月12日開催・帯広畜産大学）
-- 統合データベース講習会：AJACS阿波（2014年8月20日開催・徳島大学）
-- 統合データベース講習会：AJACS信濃（2014年7月17日開催・信州大学）
-- 統合データベース講習会：AJACS出島（2014年7月3日開催・長崎大学）
+- [統合データベース講習会：AJACS府中](https://github.com/AJACS-training/AJACS52)（2015年3月5日開催・東京農工大学）
+- [統合データベース講習会：AJACS岩手](https://github.com/AJACS-training/AJACS51)（2014年12月5日開催・岩手医科大学）
+- [統合データベース講習会：AJACS十勝](https://github.com/AJACS-training/AJACS50)（2014年9月12日開催・帯広畜産大学）
+- [統合データベース講習会：AJACS阿波](https://github.com/AJACS-training/AJACS49)（2014年8月20日開催・徳島大学）
+- [統合データベース講習会：AJACS信濃](https://github.com/AJACS-training/AJACS48)（2014年7月17日開催・信州大学）
+- [統合データベース講習会：AJACS出島](https://github.com/AJACS-training/AJACS46)（2014年7月3日開催・長崎大学）
 ### 2013年度
-- 統合データベース講習会：AJACS肥後（2014年1月22日、23日開催・化学及血清療法研究所）
-- 統合データベース講習会：AJACS蝦夷3（2013年11月6日開催・北海道大学）
-- 統合データベース講習会：AJACS富山（2013年8月30日開催・富山大学）
-- 統合データベース講習会：AJACS琉球（2013年7月30日、31日開催・琉球大学）
-- 統合データベース講習会：AJACS岐阜（2013年7月12日開催・岐阜大学）
-- 統合データベース講習会：AJACS筑波3　(2013年5月28日開催・物質材料研究機構)
-- 統合データベース講演会 in 東京理科大学 (2013年5月15日開催・東京理科大学)
+- [統合データベース講習会：AJACS肥後](https://github.com/AJACS-training/AJACS44)（2014年1月22日、23日開催・化学及血清療法研究所）
+- [統合データベース講習会：AJACS蝦夷3](https://github.com/AJACS-training/AJACS43)（2013年11月6日開催・北海道大学）
+- [統合データベース講習会：AJACS富山](https://github.com/AJACS-training/AJACS42)（2013年8月30日開催・富山大学）
+- [統合データベース講習会：AJACS琉球](https://github.com/AJACS-training/AJACS41)（2013年7月30日、31日開催・琉球大学）
+- [統合データベース講習会：AJACS岐阜](https://github.com/AJACS-training/AJACS40)（2013年7月12日開催・岐阜大学）
+- [統合データベース講習会：AJACS筑波3](https://github.com/AJACS-training/AJACS38)　(2013年5月28日開催・物質材料研究機構)
+- [統合データベース講演会 in 東京理科大学](https://github.com/AJACS-training/AJACS39) (2013年5月15日開催・東京理科大学)
 
 ### 2012年度
 - 統合データベース講演会：AJACS本郷13を2013年3月22日に開催しました
