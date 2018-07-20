@@ -19,12 +19,12 @@
 - [統合データベース講習会：AJACS前橋](https://github.com/AJACS-training/AJACS59)（2016年6月21日開催・群馬大学）
 
 ### 2015年度
-- 統合データベース講習会：AJACS薩摩（2016年1月26日-27日開催・鹿児島大学）
-- 統合データベース講習会：AJACS伊予（2015年9月25日開催・愛媛大学）
-- 統合データベース講習会：AJACS津軽（2015年9月3日-4日開催・弘前大学）
-- 統合データベース講習会：AJACS米子（2015年8月4日開催・鳥取大学）
-- 統合データベース講習会：AJACS千里（2015年6月16日-17日開催・大阪大学）
-- 統合データベース講習会：AJACS御茶ノ水（2015年5月20日-21日開催・東京医科歯科大学）
+- [統合データベース講習会：AJACS薩摩](https://github.com/AJACS-training/AJACS58)（2016年1月26日-27日開催・鹿児島大学）
+- [統合データベース講習会：AJACS伊予](https://github.com/AJACS-training/AJACS57)（2015年9月25日開催・愛媛大学）
+- [統合データベース講習会：AJACS津軽](https://github.com/AJACS-training/AJACS56)（2015年9月3日-4日開催・弘前大学）
+- [統合データベース講習会：AJACS米子](https://github.com/AJACS-training/AJACS55)（2015年8月4日開催・鳥取大学）
+- [統合データベース講習会：AJACS千里](https://github.com/AJACS-training/AJACS54)（2015年6月16日-17日開催・大阪大学）
+- [統合データベース講習会：AJACS御茶ノ水](https://github.com/AJACS-training/AJACS53)（2015年5月20日-21日開催・東京医科歯科大学）
 
 ### 2014年
 - 統合データベース講習会：AJACS府中（2015年3月5日開催・東京農工大学）
